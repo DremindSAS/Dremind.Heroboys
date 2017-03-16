@@ -60,104 +60,19 @@
     <objectsGroups />
     <variables />
     <layouts>
-        <layout b="209" disableInputWhenNotFocused="true" mangledName="Roadmap" name="Roadmap" oglFOV="90.000000" oglZFar="500.000000" oglZNear="1.000000" r="209" standardSortMethod="true" stopSoundsOnStartup="true" title="" v="209">
-            <uiSettings grid="false" gridB="255" gridG="180" gridHeight="32" gridOffsetX="0" gridOffsetY="0" gridR="158" gridWidth="32" snap="true" windowMask="false" zoomFactor="0.658970" />
+        <layout b="209" disableInputWhenNotFocused="true" mangledName="Splashscreen1" name="Splashscreen1" oglFOV="90.000000" oglZFar="500.000000" oglZNear="1.000000" r="209" standardSortMethod="true" stopSoundsOnStartup="true" title="" v="209">
+            <uiSettings grid="false" gridB="255" gridG="180" gridHeight="32" gridOffsetX="0" gridOffsetY="0" gridR="158" gridWidth="32" snap="true" windowMask="false" zoomFactor="0.597809" />
             <objectsGroups />
             <variables />
             <instances>
-                <instance angle="0.000000" customSize="true" height="1088.000000" layer="" locked="true" name="Background" width="1934.222168" x="0.000000" y="0.000000" zOrder="1">
-                    <numberProperties />
-                    <stringProperties />
-                    <initialVariables />
-                </instance>
-                <instance angle="0.000000" customSize="false" height="0.000000" layer="" locked="false" name="DisabledLevel" width="0.000000" x="1334.827393" y="107.506851" zOrder="2">
-                    <numberProperties />
-                    <stringProperties />
-                    <initialVariables />
-                </instance>
-                <instance angle="0.000000" customSize="false" height="0.000000" layer="" locked="false" name="DisabledLevel" width="0.000000" x="273.563599" y="521.789734" zOrder="3">
-                    <numberProperties />
-                    <stringProperties />
-                    <initialVariables />
-                </instance>
-                <instance angle="0.000000" customSize="false" height="0.000000" layer="" locked="false" name="DisabledLevel" width="0.000000" x="475.393738" y="451.983856" zOrder="3">
-                    <numberProperties />
-                    <stringProperties />
-                    <initialVariables />
-                </instance>
-                <instance angle="0.000000" customSize="false" height="0.000000" layer="" locked="false" name="DisabledLevel" width="0.000000" x="790.401794" y="521.789795" zOrder="3">
-                    <numberProperties />
-                    <stringProperties />
-                    <initialVariables />
-                </instance>
-                <instance angle="0.000000" customSize="false" height="0.000000" layer="" locked="false" name="DisabledLevel" width="0.000000" x="1046.471924" y="794.943298" zOrder="3">
-                    <numberProperties />
-                    <stringProperties />
-                    <initialVariables />
-                </instance>
-                <instance angle="0.000000" customSize="false" height="0.000000" layer="" locked="false" name="DisabledLevel" width="0.000000" x="1626.261719" y="776.733093" zOrder="3">
-                    <numberProperties />
-                    <stringProperties />
-                    <initialVariables />
-                </instance>
-                <instance angle="0.000000" customSize="false" height="0.000000" layer="" locked="false" name="DisabledLevel" width="0.000000" x="1391.046021" y="626.498657" zOrder="3">
-                    <numberProperties />
-                    <stringProperties />
-                    <initialVariables />
-                </instance>
-                <instance angle="0.000000" customSize="false" height="0.000000" layer="" locked="false" name="DisabledLevel" width="0.000000" x="1178.593262" y="561.245239" zOrder="3">
-                    <numberProperties />
-                    <stringProperties />
-                    <initialVariables />
-                </instance>
-                <instance angle="0.000000" customSize="false" height="0.000000" layer="" locked="false" name="DisabledLevel" width="0.000000" x="1629.296631" y="497.509460" zOrder="3">
-                    <numberProperties />
-                    <stringProperties />
-                    <initialVariables />
-                </instance>
-                <instance angle="0.000000" customSize="false" height="0.000000" layer="" locked="false" name="DisabledLevel" width="0.000000" x="1413.808838" y="335.134857" zOrder="3">
-                    <numberProperties />
-                    <stringProperties />
-                    <initialVariables />
-                </instance>
-                <instance angle="0.000000" customSize="false" height="0.000000" layer="" locked="false" name="DisabledLevel" width="0.000000" x="1551.156494" y="236.496033" zOrder="3">
-                    <numberProperties />
-                    <stringProperties />
-                    <initialVariables />
-                </instance>
-                <instance angle="0.000000" customSize="false" height="0.000000" layer="" locked="false" name="DisabledLevel" width="0.000000" x="1710.496094" y="180.347839" zOrder="3">
-                    <numberProperties />
-                    <stringProperties />
-                    <initialVariables />
-                </instance>
-                <instance angle="0.000000" customSize="false" height="0.000000" layer="" locked="false" name="DisabledLevel" width="0.000000" x="1025.218384" y="89.296616" zOrder="3">
-                    <numberProperties />
-                    <stringProperties />
-                    <initialVariables />
-                </instance>
-                <instance angle="0.000000" customSize="false" height="0.000000" layer="" locked="false" name="DisabledLevel" width="0.000000" x="811.248108" y="99.919250" zOrder="3">
-                    <numberProperties />
-                    <stringProperties />
-                    <initialVariables />
-                </instance>
-                <instance angle="0.000000" customSize="false" height="0.000000" layer="" locked="false" name="DisabledLevel" width="0.000000" x="443.781891" y="130.269669" zOrder="3">
-                    <numberProperties />
-                    <stringProperties />
-                    <initialVariables />
-                </instance>
-                <instance angle="0.000000" customSize="false" height="0.000000" layer="" locked="false" name="DisabledLevel" width="0.000000" x="22.423437" y="222.838348" zOrder="3">
-                    <numberProperties />
-                    <stringProperties />
-                    <initialVariables />
-                </instance>
-                <instance angle="0.000000" customSize="false" height="0.000000" layer="" locked="false" name="CurrentLevel" width="0.000000" x="104.824783" y="760.272156" zOrder="5">
+                <instance angle="0.000000" customSize="true" height="1082.025879" layer="" locked="true" name="NewObject" width="1923.601562" x="-3.519058" y="-5.325012" zOrder="1">
                     <numberProperties />
                     <stringProperties />
                     <initialVariables />
                 </instance>
             </instances>
             <objects>
-                <object name="Background" type="Sprite">
+                <object name="NewObject" type="Sprite">
                     <variables />
                     <behaviors />
                     <animations>
@@ -165,83 +80,16 @@
                             <directions>
                                 <direction looping="false" timeBetweenFrames="1.000000">
                                     <sprites>
-                                        <sprite hasCustomCollisionMask="false" image="RutMap HeroBoys 1920 x 1080_Artboard 6.jpg">
+                                        <sprite hasCustomCollisionMask="false" image="intro1.jpg">
                                             <points />
                                             <originPoint name="origine" x="0.000000" y="0.000000" />
-                                            <centerPoint automatic="true" name="centre" x="0.000000" y="0.000000" />
+                                            <centerPoint automatic="true" name="centre" x="1280.000000" y="720.000000" />
                                             <customCollisionMask>
                                                 <polygon>
                                                     <vertice x="0.000000" y="0.000000" />
-                                                    <vertice x="0.000000" y="0.000000" />
-                                                    <vertice x="0.000000" y="0.000000" />
-                                                    <vertice x="0.000000" y="0.000000" />
-                                                </polygon>
-                                            </customCollisionMask>
-                                        </sprite>
-                                    </sprites>
-                                </direction>
-                            </directions>
-                        </animation>
-                    </animations>
-                </object>
-                <object name="DisabledLevel" type="Sprite">
-                    <variables />
-                    <behaviors />
-                    <animations>
-                        <animation name="" useMultipleDirections="false">
-                            <directions>
-                                <direction looping="false" timeBetweenFrames="1.000000">
-                                    <sprites>
-                                        <sprite hasCustomCollisionMask="false" image="faro_on-01.png">
-                                            <points />
-                                            <originPoint name="origine" x="0.000000" y="0.000000" />
-                                            <centerPoint automatic="true" name="centre" x="0.000000" y="0.000000" />
-                                            <customCollisionMask>
-                                                <polygon>
-                                                    <vertice x="0.000000" y="0.000000" />
-                                                    <vertice x="0.000000" y="0.000000" />
-                                                    <vertice x="0.000000" y="0.000000" />
-                                                    <vertice x="0.000000" y="0.000000" />
-                                                </polygon>
-                                            </customCollisionMask>
-                                        </sprite>
-                                    </sprites>
-                                </direction>
-                            </directions>
-                        </animation>
-                    </animations>
-                </object>
-                <object name="CurrentLevel" type="Sprite">
-                    <variables />
-                    <behaviors />
-                    <animations>
-                        <animation name="" useMultipleDirections="false">
-                            <directions>
-                                <direction looping="true" timeBetweenFrames="0.500000">
-                                    <sprites>
-                                        <sprite hasCustomCollisionMask="false" image="faro_on-01.png">
-                                            <points />
-                                            <originPoint name="origine" x="0.000000" y="0.000000" />
-                                            <centerPoint automatic="true" name="centre" x="0.000000" y="0.000000" />
-                                            <customCollisionMask>
-                                                <polygon>
-                                                    <vertice x="0.000000" y="0.000000" />
-                                                    <vertice x="0.000000" y="0.000000" />
-                                                    <vertice x="0.000000" y="0.000000" />
-                                                    <vertice x="0.000000" y="0.000000" />
-                                                </polygon>
-                                            </customCollisionMask>
-                                        </sprite>
-                                        <sprite hasCustomCollisionMask="false" image="faro_off-01.png">
-                                            <points />
-                                            <originPoint name="origine" x="0.000000" y="0.000000" />
-                                            <centerPoint automatic="true" name="centre" x="0.000000" y="0.000000" />
-                                            <customCollisionMask>
-                                                <polygon>
-                                                    <vertice x="0.000000" y="0.000000" />
-                                                    <vertice x="0.000000" y="0.000000" />
-                                                    <vertice x="0.000000" y="0.000000" />
-                                                    <vertice x="0.000000" y="0.000000" />
+                                                    <vertice x="2560.000000" y="0.000000" />
+                                                    <vertice x="2560.000000" y="1440.000000" />
+                                                    <vertice x="0.000000" y="1440.000000" />
                                                 </polygon>
                                             </customCollisionMask>
                                         </sprite>
@@ -257,44 +105,105 @@
                     <type>BuiltinCommonInstructions::Standard</type>
                     <conditions>
                         <condition>
-                            <type inverted="false" value="SourisSurObjet" />
+                            <type inverted="false" value="Timer" />
                             <parameters>
-                                <parameter>CurrentLevel</parameter>
                                 <parameter></parameter>
-                                <parameter>yes</parameter>
-                                <parameter></parameter>
+                                <parameter>2</parameter>
+                                <parameter>&quot;CountingSplash&quot;</parameter>
                             </parameters>
                             <subConditions />
                         </condition>
                     </conditions>
-                    <actions />
-                    <events>
-                        <event disabled="false" folded="false">
-                            <type>BuiltinCommonInstructions::Standard</type>
-                            <conditions>
-                                <condition>
-                                    <type inverted="false" value="MouseButtonReleased" />
-                                    <parameters>
-                                        <parameter></parameter>
-                                        <parameter>Left</parameter>
-                                    </parameters>
-                                    <subConditions />
-                                </condition>
-                            </conditions>
-                            <actions>
-                                <action>
-                                    <type inverted="false" value="Scene" />
-                                    <parameters>
-                                        <parameter></parameter>
-                                        <parameter>&quot;Game1&quot;</parameter>
-                                        <parameter>true</parameter>
-                                    </parameters>
-                                    <subActions />
-                                </action>
-                            </actions>
-                            <events />
-                        </event>
-                    </events>
+                    <actions>
+                        <action>
+                            <type inverted="false" value="Scene" />
+                            <parameters>
+                                <parameter></parameter>
+                                <parameter>&quot;Splashscreen2&quot;</parameter>
+                                <parameter>true</parameter>
+                            </parameters>
+                            <subActions />
+                        </action>
+                    </actions>
+                    <events />
+                </event>
+            </events>
+            <layers>
+                <layer name="" visibility="true">
+                    <cameras>
+                        <camera defaultSize="true" defaultViewport="true" height="0.000000" viewportBottom="1.000000" viewportLeft="0.000000" viewportRight="1.000000" viewportTop="0.000000" width="0.000000" />
+                    </cameras>
+                    <effects />
+                </layer>
+            </layers>
+            <behaviorsSharedData />
+        </layout>
+        <layout b="209" disableInputWhenNotFocused="true" mangledName="Splashscreen2" name="Splashscreen2" oglFOV="90.000000" oglZFar="500.000000" oglZNear="1.000000" r="209" standardSortMethod="true" stopSoundsOnStartup="true" title="" v="209">
+            <uiSettings grid="false" gridB="255" gridG="180" gridHeight="32" gridOffsetX="0" gridOffsetY="0" gridR="158" gridWidth="32" snap="true" windowMask="false" zoomFactor="0.637238" />
+            <objectsGroups />
+            <variables />
+            <instances>
+                <instance angle="0.000000" customSize="true" height="1085.344482" layer="" locked="true" name="NewObject" width="1929.501343" x="-3.533241" y="-6.106766" zOrder="1">
+                    <numberProperties />
+                    <stringProperties />
+                    <initialVariables />
+                </instance>
+            </instances>
+            <objects>
+                <object name="NewObject" type="Sprite">
+                    <variables />
+                    <behaviors />
+                    <animations>
+                        <animation name="" useMultipleDirections="false">
+                            <directions>
+                                <direction looping="false" timeBetweenFrames="1.000000">
+                                    <sprites>
+                                        <sprite hasCustomCollisionMask="false" image="intro2.jpg">
+                                            <points />
+                                            <originPoint name="origine" x="0.000000" y="0.000000" />
+                                            <centerPoint automatic="true" name="centre" x="1280.000000" y="720.000000" />
+                                            <customCollisionMask>
+                                                <polygon>
+                                                    <vertice x="0.000000" y="0.000000" />
+                                                    <vertice x="2560.000000" y="0.000000" />
+                                                    <vertice x="2560.000000" y="1440.000000" />
+                                                    <vertice x="0.000000" y="1440.000000" />
+                                                </polygon>
+                                            </customCollisionMask>
+                                        </sprite>
+                                    </sprites>
+                                </direction>
+                            </directions>
+                        </animation>
+                    </animations>
+                </object>
+            </objects>
+            <events>
+                <event disabled="false" folded="false">
+                    <type>BuiltinCommonInstructions::Standard</type>
+                    <conditions>
+                        <condition>
+                            <type inverted="false" value="Timer" />
+                            <parameters>
+                                <parameter></parameter>
+                                <parameter>2</parameter>
+                                <parameter>&quot;CountingSplash&quot;</parameter>
+                            </parameters>
+                            <subConditions />
+                        </condition>
+                    </conditions>
+                    <actions>
+                        <action>
+                            <type inverted="false" value="Scene" />
+                            <parameters>
+                                <parameter></parameter>
+                                <parameter>&quot;Menu&quot;</parameter>
+                                <parameter>true</parameter>
+                            </parameters>
+                            <subActions />
+                        </action>
+                    </actions>
+                    <events />
                 </event>
             </events>
             <layers>
@@ -498,19 +407,104 @@
             </layers>
             <behaviorsSharedData />
         </layout>
-        <layout b="209" disableInputWhenNotFocused="true" mangledName="Splashscreen1" name="Splashscreen1" oglFOV="90.000000" oglZFar="500.000000" oglZNear="1.000000" r="209" standardSortMethod="true" stopSoundsOnStartup="true" title="" v="209">
-            <uiSettings grid="false" gridB="255" gridG="180" gridHeight="32" gridOffsetX="0" gridOffsetY="0" gridR="158" gridWidth="32" snap="true" windowMask="false" zoomFactor="0.597809" />
+        <layout b="209" disableInputWhenNotFocused="true" mangledName="Roadmap" name="Roadmap" oglFOV="90.000000" oglZFar="500.000000" oglZNear="1.000000" r="209" standardSortMethod="true" stopSoundsOnStartup="true" title="" v="209">
+            <uiSettings grid="false" gridB="255" gridG="180" gridHeight="32" gridOffsetX="0" gridOffsetY="0" gridR="158" gridWidth="32" snap="true" windowMask="false" zoomFactor="0.658970" />
             <objectsGroups />
             <variables />
             <instances>
-                <instance angle="0.000000" customSize="true" height="1082.025879" layer="" locked="true" name="NewObject" width="1923.601562" x="-3.519058" y="-5.325012" zOrder="1">
+                <instance angle="0.000000" customSize="true" height="1088.000000" layer="" locked="true" name="Background" width="1934.222168" x="0.000000" y="0.000000" zOrder="1">
+                    <numberProperties />
+                    <stringProperties />
+                    <initialVariables />
+                </instance>
+                <instance angle="0.000000" customSize="false" height="0.000000" layer="" locked="false" name="DisabledLevel" width="0.000000" x="1334.827393" y="107.506851" zOrder="2">
+                    <numberProperties />
+                    <stringProperties />
+                    <initialVariables />
+                </instance>
+                <instance angle="0.000000" customSize="false" height="0.000000" layer="" locked="false" name="DisabledLevel" width="0.000000" x="273.563599" y="521.789734" zOrder="3">
+                    <numberProperties />
+                    <stringProperties />
+                    <initialVariables />
+                </instance>
+                <instance angle="0.000000" customSize="false" height="0.000000" layer="" locked="false" name="DisabledLevel" width="0.000000" x="475.393738" y="451.983856" zOrder="3">
+                    <numberProperties />
+                    <stringProperties />
+                    <initialVariables />
+                </instance>
+                <instance angle="0.000000" customSize="false" height="0.000000" layer="" locked="false" name="DisabledLevel" width="0.000000" x="790.401794" y="521.789795" zOrder="3">
+                    <numberProperties />
+                    <stringProperties />
+                    <initialVariables />
+                </instance>
+                <instance angle="0.000000" customSize="false" height="0.000000" layer="" locked="false" name="DisabledLevel" width="0.000000" x="1046.471924" y="794.943298" zOrder="3">
+                    <numberProperties />
+                    <stringProperties />
+                    <initialVariables />
+                </instance>
+                <instance angle="0.000000" customSize="false" height="0.000000" layer="" locked="false" name="DisabledLevel" width="0.000000" x="1626.261719" y="776.733093" zOrder="3">
+                    <numberProperties />
+                    <stringProperties />
+                    <initialVariables />
+                </instance>
+                <instance angle="0.000000" customSize="false" height="0.000000" layer="" locked="false" name="DisabledLevel" width="0.000000" x="1391.046021" y="626.498657" zOrder="3">
+                    <numberProperties />
+                    <stringProperties />
+                    <initialVariables />
+                </instance>
+                <instance angle="0.000000" customSize="false" height="0.000000" layer="" locked="false" name="DisabledLevel" width="0.000000" x="1178.593262" y="561.245239" zOrder="3">
+                    <numberProperties />
+                    <stringProperties />
+                    <initialVariables />
+                </instance>
+                <instance angle="0.000000" customSize="false" height="0.000000" layer="" locked="false" name="DisabledLevel" width="0.000000" x="1629.296631" y="497.509460" zOrder="3">
+                    <numberProperties />
+                    <stringProperties />
+                    <initialVariables />
+                </instance>
+                <instance angle="0.000000" customSize="false" height="0.000000" layer="" locked="false" name="DisabledLevel" width="0.000000" x="1413.808838" y="335.134857" zOrder="3">
+                    <numberProperties />
+                    <stringProperties />
+                    <initialVariables />
+                </instance>
+                <instance angle="0.000000" customSize="false" height="0.000000" layer="" locked="false" name="DisabledLevel" width="0.000000" x="1551.156494" y="236.496033" zOrder="3">
+                    <numberProperties />
+                    <stringProperties />
+                    <initialVariables />
+                </instance>
+                <instance angle="0.000000" customSize="false" height="0.000000" layer="" locked="false" name="DisabledLevel" width="0.000000" x="1710.496094" y="180.347839" zOrder="3">
+                    <numberProperties />
+                    <stringProperties />
+                    <initialVariables />
+                </instance>
+                <instance angle="0.000000" customSize="false" height="0.000000" layer="" locked="false" name="DisabledLevel" width="0.000000" x="1025.218384" y="89.296616" zOrder="3">
+                    <numberProperties />
+                    <stringProperties />
+                    <initialVariables />
+                </instance>
+                <instance angle="0.000000" customSize="false" height="0.000000" layer="" locked="false" name="DisabledLevel" width="0.000000" x="811.248108" y="99.919250" zOrder="3">
+                    <numberProperties />
+                    <stringProperties />
+                    <initialVariables />
+                </instance>
+                <instance angle="0.000000" customSize="false" height="0.000000" layer="" locked="false" name="DisabledLevel" width="0.000000" x="443.781891" y="130.269669" zOrder="3">
+                    <numberProperties />
+                    <stringProperties />
+                    <initialVariables />
+                </instance>
+                <instance angle="0.000000" customSize="false" height="0.000000" layer="" locked="false" name="DisabledLevel" width="0.000000" x="22.423437" y="222.838348" zOrder="3">
+                    <numberProperties />
+                    <stringProperties />
+                    <initialVariables />
+                </instance>
+                <instance angle="0.000000" customSize="false" height="0.000000" layer="" locked="false" name="CurrentLevel" width="0.000000" x="104.824783" y="760.272156" zOrder="5">
                     <numberProperties />
                     <stringProperties />
                     <initialVariables />
                 </instance>
             </instances>
             <objects>
-                <object name="NewObject" type="Sprite">
+                <object name="Background" type="Sprite">
                     <variables />
                     <behaviors />
                     <animations>
@@ -518,7 +512,7 @@
                             <directions>
                                 <direction looping="false" timeBetweenFrames="1.000000">
                                     <sprites>
-                                        <sprite hasCustomCollisionMask="false" image="intro1.jpg">
+                                        <sprite hasCustomCollisionMask="false" image="roadmap.jpg">
                                             <points />
                                             <originPoint name="origine" x="0.000000" y="0.000000" />
                                             <centerPoint automatic="true" name="centre" x="1280.000000" y="720.000000" />
@@ -537,58 +531,7 @@
                         </animation>
                     </animations>
                 </object>
-            </objects>
-            <events>
-                <event disabled="false" folded="false">
-                    <type>BuiltinCommonInstructions::Standard</type>
-                    <conditions>
-                        <condition>
-                            <type inverted="false" value="Timer" />
-                            <parameters>
-                                <parameter></parameter>
-                                <parameter>2</parameter>
-                                <parameter>&quot;CountingSplash&quot;</parameter>
-                            </parameters>
-                            <subConditions />
-                        </condition>
-                    </conditions>
-                    <actions>
-                        <action>
-                            <type inverted="false" value="Scene" />
-                            <parameters>
-                                <parameter></parameter>
-                                <parameter>&quot;Splashscreen2&quot;</parameter>
-                                <parameter>true</parameter>
-                            </parameters>
-                            <subActions />
-                        </action>
-                    </actions>
-                    <events />
-                </event>
-            </events>
-            <layers>
-                <layer name="" visibility="true">
-                    <cameras>
-                        <camera defaultSize="true" defaultViewport="true" height="0.000000" viewportBottom="1.000000" viewportLeft="0.000000" viewportRight="1.000000" viewportTop="0.000000" width="0.000000" />
-                    </cameras>
-                    <effects />
-                </layer>
-            </layers>
-            <behaviorsSharedData />
-        </layout>
-        <layout b="209" disableInputWhenNotFocused="true" mangledName="Splashscreen2" name="Splashscreen2" oglFOV="90.000000" oglZFar="500.000000" oglZNear="1.000000" r="209" standardSortMethod="true" stopSoundsOnStartup="true" title="" v="209">
-            <uiSettings grid="false" gridB="255" gridG="180" gridHeight="32" gridOffsetX="0" gridOffsetY="0" gridR="158" gridWidth="32" snap="true" windowMask="false" zoomFactor="0.637238" />
-            <objectsGroups />
-            <variables />
-            <instances>
-                <instance angle="0.000000" customSize="true" height="1085.344482" layer="" locked="true" name="NewObject" width="1929.501343" x="-3.533241" y="-6.106766" zOrder="1">
-                    <numberProperties />
-                    <stringProperties />
-                    <initialVariables />
-                </instance>
-            </instances>
-            <objects>
-                <object name="NewObject" type="Sprite">
+                <object name="DisabledLevel" type="Sprite">
                     <variables />
                     <behaviors />
                     <animations>
@@ -596,16 +539,56 @@
                             <directions>
                                 <direction looping="false" timeBetweenFrames="1.000000">
                                     <sprites>
-                                        <sprite hasCustomCollisionMask="false" image="intro2.jpg">
+                                        <sprite hasCustomCollisionMask="false" image="faro_on-01.png">
                                             <points />
                                             <originPoint name="origine" x="0.000000" y="0.000000" />
-                                            <centerPoint automatic="true" name="centre" x="1280.000000" y="720.000000" />
+                                            <centerPoint automatic="true" name="centre" x="18.500000" y="80.000000" />
                                             <customCollisionMask>
                                                 <polygon>
                                                     <vertice x="0.000000" y="0.000000" />
-                                                    <vertice x="2560.000000" y="0.000000" />
-                                                    <vertice x="2560.000000" y="1440.000000" />
-                                                    <vertice x="0.000000" y="1440.000000" />
+                                                    <vertice x="37.000000" y="0.000000" />
+                                                    <vertice x="37.000000" y="160.000000" />
+                                                    <vertice x="0.000000" y="160.000000" />
+                                                </polygon>
+                                            </customCollisionMask>
+                                        </sprite>
+                                    </sprites>
+                                </direction>
+                            </directions>
+                        </animation>
+                    </animations>
+                </object>
+                <object name="CurrentLevel" type="Sprite">
+                    <variables />
+                    <behaviors />
+                    <animations>
+                        <animation name="" useMultipleDirections="false">
+                            <directions>
+                                <direction looping="true" timeBetweenFrames="0.500000">
+                                    <sprites>
+                                        <sprite hasCustomCollisionMask="false" image="faro_on-01.png">
+                                            <points />
+                                            <originPoint name="origine" x="0.000000" y="0.000000" />
+                                            <centerPoint automatic="true" name="centre" x="18.500000" y="80.000000" />
+                                            <customCollisionMask>
+                                                <polygon>
+                                                    <vertice x="0.000000" y="0.000000" />
+                                                    <vertice x="37.000000" y="0.000000" />
+                                                    <vertice x="37.000000" y="160.000000" />
+                                                    <vertice x="0.000000" y="160.000000" />
+                                                </polygon>
+                                            </customCollisionMask>
+                                        </sprite>
+                                        <sprite hasCustomCollisionMask="false" image="faro_off-01.png">
+                                            <points />
+                                            <originPoint name="origine" x="0.000000" y="0.000000" />
+                                            <centerPoint automatic="true" name="centre" x="18.500000" y="80.000000" />
+                                            <customCollisionMask>
+                                                <polygon>
+                                                    <vertice x="0.000000" y="0.000000" />
+                                                    <vertice x="37.000000" y="0.000000" />
+                                                    <vertice x="37.000000" y="160.000000" />
+                                                    <vertice x="0.000000" y="160.000000" />
                                                 </polygon>
                                             </customCollisionMask>
                                         </sprite>
@@ -621,27 +604,44 @@
                     <type>BuiltinCommonInstructions::Standard</type>
                     <conditions>
                         <condition>
-                            <type inverted="false" value="Timer" />
+                            <type inverted="false" value="SourisSurObjet" />
                             <parameters>
+                                <parameter>CurrentLevel</parameter>
                                 <parameter></parameter>
-                                <parameter>2</parameter>
-                                <parameter>&quot;CountingSplash&quot;</parameter>
+                                <parameter>yes</parameter>
+                                <parameter></parameter>
                             </parameters>
                             <subConditions />
                         </condition>
                     </conditions>
-                    <actions>
-                        <action>
-                            <type inverted="false" value="Scene" />
-                            <parameters>
-                                <parameter></parameter>
-                                <parameter>&quot;Menu&quot;</parameter>
-                                <parameter>true</parameter>
-                            </parameters>
-                            <subActions />
-                        </action>
-                    </actions>
-                    <events />
+                    <actions />
+                    <events>
+                        <event disabled="false" folded="false">
+                            <type>BuiltinCommonInstructions::Standard</type>
+                            <conditions>
+                                <condition>
+                                    <type inverted="false" value="MouseButtonReleased" />
+                                    <parameters>
+                                        <parameter></parameter>
+                                        <parameter>Left</parameter>
+                                    </parameters>
+                                    <subConditions />
+                                </condition>
+                            </conditions>
+                            <actions>
+                                <action>
+                                    <type inverted="false" value="Scene" />
+                                    <parameters>
+                                        <parameter></parameter>
+                                        <parameter>&quot;Game1&quot;</parameter>
+                                        <parameter>true</parameter>
+                                    </parameters>
+                                    <subActions />
+                                </action>
+                            </actions>
+                            <events />
+                        </event>
+                    </events>
                 </event>
             </events>
             <layers>
