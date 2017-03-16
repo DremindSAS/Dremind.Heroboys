@@ -6,7 +6,7 @@
         <author>Dremind S.A.S.</author>
         <windowWidth>1920</windowWidth>
         <windowHeight>1080</windowHeight>
-        <latestCompilationDirectory></latestCompilationDirectory>
+        <latestCompilationDirectory>C:\Dremind\Dremind.Heroboys\Exported</latestCompilationDirectory>
         <maxFPS>60</maxFPS>
         <minFPS>10</minFPS>
         <verticalSync>false</verticalSync>
@@ -503,7 +503,7 @@
             <objectsGroups />
             <variables />
             <instances>
-                <instance angle="0.000000" customSize="true" height="1082.025879" layer="" locked="false" name="NewObject" width="1923.601562" x="-3.519058" y="-5.325012" zOrder="1">
+                <instance angle="0.000000" customSize="true" height="1082.025879" layer="" locked="true" name="NewObject" width="1923.601562" x="-3.519058" y="-5.325012" zOrder="1">
                     <numberProperties />
                     <stringProperties />
                     <initialVariables />
@@ -521,13 +521,13 @@
                                         <sprite hasCustomCollisionMask="false" image="intro1.jpg">
                                             <points />
                                             <originPoint name="origine" x="0.000000" y="0.000000" />
-                                            <centerPoint automatic="true" name="centre" x="0.000000" y="0.000000" />
+                                            <centerPoint automatic="true" name="centre" x="1280.000000" y="720.000000" />
                                             <customCollisionMask>
                                                 <polygon>
                                                     <vertice x="0.000000" y="0.000000" />
-                                                    <vertice x="0.000000" y="0.000000" />
-                                                    <vertice x="0.000000" y="0.000000" />
-                                                    <vertice x="0.000000" y="0.000000" />
+                                                    <vertice x="2560.000000" y="0.000000" />
+                                                    <vertice x="2560.000000" y="1440.000000" />
+                                                    <vertice x="0.000000" y="1440.000000" />
                                                 </polygon>
                                             </customCollisionMask>
                                         </sprite>
@@ -581,7 +581,7 @@
             <objectsGroups />
             <variables />
             <instances>
-                <instance angle="0.000000" customSize="true" height="1085.344482" layer="" locked="false" name="NewObject" width="1929.501343" x="-3.533241" y="-6.106766" zOrder="1">
+                <instance angle="0.000000" customSize="true" height="1085.344482" layer="" locked="true" name="NewObject" width="1929.501343" x="-3.533241" y="-6.106766" zOrder="1">
                     <numberProperties />
                     <stringProperties />
                     <initialVariables />
@@ -599,13 +599,13 @@
                                         <sprite hasCustomCollisionMask="false" image="intro2.jpg">
                                             <points />
                                             <originPoint name="origine" x="0.000000" y="0.000000" />
-                                            <centerPoint automatic="true" name="centre" x="0.000000" y="0.000000" />
+                                            <centerPoint automatic="true" name="centre" x="1280.000000" y="720.000000" />
                                             <customCollisionMask>
                                                 <polygon>
                                                     <vertice x="0.000000" y="0.000000" />
-                                                    <vertice x="0.000000" y="0.000000" />
-                                                    <vertice x="0.000000" y="0.000000" />
-                                                    <vertice x="0.000000" y="0.000000" />
+                                                    <vertice x="2560.000000" y="0.000000" />
+                                                    <vertice x="2560.000000" y="1440.000000" />
+                                                    <vertice x="0.000000" y="1440.000000" />
                                                 </polygon>
                                             </customCollisionMask>
                                         </sprite>
